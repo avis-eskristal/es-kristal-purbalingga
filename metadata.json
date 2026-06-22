@@ -1,0 +1,6 @@
+{
+  "name": "Avis Ice",
+  "description": "Landing page modern dan profesional untuk jualan es batu kristal premium, higienis, dan berkualitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
